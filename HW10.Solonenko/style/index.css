@@ -1,0 +1,7 @@
+@import "reset/reset.css";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap");
+@import "common/common.css";
+@import "variables/variables.css";
+@import "components/header.css";
+@import "components/main.css";
+@import "components/footer.css";

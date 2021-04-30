@@ -1,0 +1,16 @@
+%display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+%bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: $bg-position;
+
+header {
+    @extend %display;
+    background: url(../images/header-bac.png);
+    @extend %bg;
+}

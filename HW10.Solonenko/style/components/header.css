@@ -1,0 +1,18 @@
+header{
+    min-height: 305px;
+    background: url(../../images/header-bac.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+
+header .slogan h1{
+    color: white;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 40px;
+    font-weight: var(--font-weight);
+    bottom: 50%;
+}

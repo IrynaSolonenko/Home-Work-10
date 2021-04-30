@@ -1,0 +1,32 @@
+main{
+    margin: 30px 0 70px;
+}
+
+main h2{
+    padding-bottom: var(--main-padding-bottom);
+    font: 30px "Open Sans", sans-serif;
+    font-weight: var(--font-weight);
+}
+main .info-part1{
+padding-bottom: var(--main-padding-bottom);
+}
+
+main .info-part1 p{
+    padding-bottom: 35px;
+}
+
+main .info-part2 h3{
+    color: #507587;
+    font: 30px "Open Sans", sans-serif;
+    font-weight: var(--font-weight);
+    border-bottom: 1px solid #f0f0f0;
+}
+
+main .info-part2 p{
+    margin-top: 30px;
+}
+
+main .info-part2 p a{
+    text-decoration: none;
+    color: var(--color);
+}
